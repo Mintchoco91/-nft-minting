@@ -1,7 +1,7 @@
 [Spec]</br>
 - IDE : Remix IDE
 - Token Type : ERC 721
-- gas Type : GoerliETH
+- Gas Type : GoerliETH
 - Created : https://goerli.etherscan.io/tx/0x7769d9b474b14b329d2ad207454afe0b0f723008832a683a94e50c163b5f563e
 - Mint NFT : https://goerli.etherscan.io/tx/0x20ff53cafc50bbbee75a22de841e34ac711ddbd433316e4b89a5011d19c7c6d6
 - OpenSea Testnet -> https://testnets.opensea.io/collection/kwnft-v2
